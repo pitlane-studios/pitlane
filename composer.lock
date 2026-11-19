@@ -5278,16 +5278,16 @@
         },
         {
             "name": "symfony/polyfill-php85",
-            "version": "v1.43.0",
+            "version": "v1.44.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php85.git",
-                "reference": "86a42cbcc07adc331481a5ab310a4024bfc227f6"
+                "reference": "94c794cb5ba51784bc259f11e9f128593297d8dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php85/zipball/86a42cbcc07adc331481a5ab310a4024bfc227f6",
-                "reference": "86a42cbcc07adc331481a5ab310a4024bfc227f6",
+                "url": "https://api.github.com/repos/symfony/polyfill-php85/zipball/94c794cb5ba51784bc259f11e9f128593297d8dc",
+                "reference": "94c794cb5ba51784bc259f11e9f128593297d8dc",
                 "shasum": ""
             },
             "require": {
@@ -5334,7 +5334,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php85/tree/v1.43.0"
+                "source": "https://github.com/symfony/polyfill-php85/tree/v1.44.0"
             },
             "funding": [
                 {
@@ -5354,7 +5354,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-25T15:46:47+00:00"
+            "time": "2026-10-30T15:20:09+00:00"
         },
         {
             "name": "symfony/polyfill-php86",
@@ -7047,16 +7047,16 @@
         },
         {
             "name": "symfony/ux-autocomplete",
-            "version": "v3.6.0",
+            "version": "v3.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/ux-autocomplete.git",
-                "reference": "4f3e3fe54dea997556642ba5abdd09d48e1e8b45"
+                "reference": "6e45394f34ae819b1b51dc2a7163c0fb8406806c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/ux-autocomplete/zipball/4f3e3fe54dea997556642ba5abdd09d48e1e8b45",
-                "reference": "4f3e3fe54dea997556642ba5abdd09d48e1e8b45",
+                "url": "https://api.github.com/repos/symfony/ux-autocomplete/zipball/6e45394f34ae819b1b51dc2a7163c0fb8406806c",
+                "reference": "6e45394f34ae819b1b51dc2a7163c0fb8406806c",
                 "shasum": ""
             },
             "require": {
@@ -7120,7 +7120,7 @@
                 "symfony-ux"
             ],
             "support": {
-                "source": "https://github.com/symfony/ux-autocomplete/tree/v3.6.0"
+                "source": "https://github.com/symfony/ux-autocomplete/tree/v3.7.2"
             },
             "funding": [
                 {
@@ -7140,7 +7140,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-13T08:04:44+00:00"
+            "time": "2026-11-08T07:40:03+00:00"
         },
         {
             "name": "symfony/ux-turbo",
